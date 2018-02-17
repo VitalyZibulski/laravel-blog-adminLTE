@@ -62,7 +62,6 @@ class PostsController extends Controller
         return redirect()->route('posts.index');
     }
 
-
     /**
      * Show the form for editing the specified resource.
      *
